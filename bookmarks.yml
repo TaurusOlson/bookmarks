@@ -1,0 +1,607 @@
+---
+blog:
+
+- title: 'Poignant guide'
+  url: http://mislav.uniqpath.com/poignant-guide/book/
+  description: "Poignant guide webpage"
+  tags: ['unix', 'ruby', 'blog']
+
+- title: 'Errtheblog'
+  url: http://errtheblog.com
+  description: "Err, the weblog of PJ Hyett and Chris Wanstrath. "
+  tags: ['ruby', 'blog']
+
+- title: "git ready"
+  url: http://www.gitready.com/
+  description: "learn git one commit at a time"
+  tags: ['git', 'tips']
+
+- title: "Doug Hellmann"
+  url: http://www.doughellmann.com
+  description: "Blog of Doug Hellmann with Python Module Of The Week"
+  tags: ['python', 'blog', 'tuto']
+
+- title: "fitzgeraldnick"
+  url: http://fitzgeraldnick.com
+  description: "Weblog of Nick Fitzgerald"
+  tags: ['python', 'pycco']
+
+- title: "BTD"
+  url: http://buffalothedestroyer.blogspot.com/
+  description: "A blog about astrophysics and computing"
+  tags: ['astro', 'python', 'bash', 'CLASS']
+
+- title: "astropython"
+  url: http://www.astropython.org   
+  description: "Python for Astronomers"
+  tags: ['astro', 'python']
+
+- title: "AstroBetter"
+  url: http://www.astrobetter.com
+  description: "Tips and tricks for professional Astronomers"
+  tags: ['ruby', 'blog']
+
+- title : "ruby alltop"
+  url: http://ruby.alltop.com/
+  description: "news from ruby"
+  tags: ['ruby', 'news', 'blog']
+
+- title : "chris blogs"
+  url: http://chneukirchen.org/
+  description: "The blog of Christian Neukirchen, the creator of rack"
+  tags: ['ruby', 'blog', 'rack']
+
+- title : "Hackety Hack"
+  url: http://blog.hackety-hack.com/
+  description: "Hackety Hack is the little coder's toolkit."
+  tags: ['ruby', 'snippets']
+
+- title : "Cycles"
+  url: http://acidcycles.wordpress.com
+  description: "The blog of Olivier Charles"
+  tags: ['perl' , 'blog']
+
+- title : "Ruby QuickTips"
+  url: http://rubyquicktips.tumblr.com/
+  description: "Random Ruby and Rails tips"
+  tags: ['ruby', 'tutorial', 'why']
+
+- title: "Tagaholic"
+  url: http://tagaholic.me/
+  description: "The blog of Gabriel Horner (alias cldwalker)"
+  tags: ['ruby', 'irb', 'blog', 'ripl']
+
+- title: "Vormplus"
+  url: http://vormplus.be/
+  description: "Vormplus is a small interactive desingstudio based in Ghent, Belgium"
+  tags: ['processing', 'blog', 'tutorial']
+
+- title: "audiotool"
+  url: http://www.audiotool.com/
+  description: Start making music today in your browser
+  tags: ['music', 'electro']
+
+- title: "Sirupsen"
+  url: http://sirupsen.com/
+  description: "He 's a developer, rubyist and minimalist"
+  tags: ['ruby', 'blog', 'rvm']
+
+- title: "Femtp"
+  url: http://perso.ensc-rennes.fr/jimmy.roussel/
+  description: Cours de physiques et applets Processing
+  tags: ['physics', 'processing']
+
+- title: "RubyInside"
+  url: http://www.rubyinside.com/
+  description: "The #1 Ruby programming blog since 2006"
+  tags: ['ruby', 'blog', 'news']
+
+- title: "Peter Cooper"
+  url: http://peterc.org/blog/
+  description: Peter Cooper s blog
+  tags: ['ruby', 'blog']
+
+- title: "Creative Applications Network"
+  url: http://www.creativeapplications.net
+  description: CAN.Net is your daily dose of inspiring apps for Mac, PC and IPhone
+  tags: ['processing', 'technology', 'art']
+
+- title: "Read the docs"
+  url: http://readthedocs.org/
+  description: "RTFD"
+  tags: ['doc', 'projects', 'sphynx', 'python']
+
+- title: "Robot Has No Heart"
+  url: http://rhnh.net/
+  description: "Xavier Shay blogs here"
+  tags: ['ruby', 'blog', 'veganism']
+
+- title: "flight404"
+  url: http://www.flight404.com/
+  description: "Robert Hodgin's blog"
+  tags: ['processing', 'blog', 'art']
+
+- title: "openFrameworks"
+  url: http://www.openframeworks.cc/
+  description: openFrameworks is an open source C++ toolkit for creative coding
+  tags: ['c++', 'art', 'processing', 'toolkit', 'creativity']
+
+- title: "Soulwire art & technology"
+  url: http://blog.soulwire.co.uk/
+  description: Soulwire is a weblog by Justin Windle
+  tags: ['actionscript', 'javascript', 'flash', 'art', 'blog']
+
+- title: "blog.omine.net"
+  url: http://blog.omine.net/
+  description: Eduardo Omine is a creative developer working with Flash, Processing, openFrameworks...
+  tags: ['processing', 'art', 'openFrameworks', 'flash']
+
+- title: "Nervous system"
+  url: http://n-e-r-v-o-u-s.com/
+  description: Founded in 2007 by Jessica Rosenkratz and Jesse-Louse Rosenberg
+  tags: ['processing', 'art']
+
+- title: "RobertHodgin"
+  url: http://roberthodgin.com/
+  description: "Robert Hodgin's personal weblog"
+  tags: ['processing', 'openFrameworks', 'art', 'blog', 'visualization']
+
+- title: "Submachine 1: the basement"
+  url: http://www.kongregate.com/games/MateuszSkutnik/submachine-1-the-basement?referrer=Kramkram
+  description: A flash game in which you must solve enigma
+  tags: ['game', 'flash', 'enigma']
+
+- title: "The Mega Super Awesome Visuals company"
+  url: http://www.msavisuals.com/
+  description: MSA Visuals was founded in 2003 by Mehmet S. Akten (aka Memo)
+  tags: ['openFrameworks', 'processing', 'art', 'blog']
+
+- title: "Cinder"
+  url: http://libcinder.org/
+  description: Cinder is a community-developed, free and open source library for professional-quality creative coding in C++ 
+  tags: ['c++', 'library', 'art', 'creative']
+
+- title: "stfj.net"
+  url: http://www.stfj.net/
+  description: The digital portfolio of zach gage
+  tags: ['processing', 'art', 'openFrameworks']
+
+- title: "Looks like good design"
+  url: http://lookslikegooddesign.com/
+  description: Fucking high quality inspiration
+  tags: ['design', 'blog']
+
+- title: "lucumr"
+  url: http://lucumr.pocoo.org/
+  description: "Armin Ronacher's Thoughtsand writings"
+  tags: ['python', 'flask', 'blog']
+
+- title: "Journeyman of some"
+  url: http://jtauber.com/
+  description: James Tauber blog
+  tags: ['python', 'django', 'pinax']
+
+- title: "YAML Cookbook"
+  url: http://www.yaml.org/YAML_for_ruby.html
+  description: "A nice Cookbook about YAML for Ruby"
+  tags: ['yaml', 'ruby', 'reference']
+
+- title: "Markdoc"
+  url: http://markdoc.org/
+  description: "The Markdoc wiki"
+  tags: ['markdoc', 'wiki', 'reference', 'python']
+
+- title: "RubyLearning Blog"
+  url: http://rubylearning.com/blog/
+  description: Ruby helps programmers have more fun!
+  tags: ['ruby', 'tips', 'blog']
+
+- title: "One Thing Well"
+  url: http://onethingwell.org/
+  description: One Thing Well is a weblog about simple, useful software
+  tags: ['minimalism', 'blog', 'software']
+
+- title: "jasonwryan"
+  url: http://jasonwryan.com/
+  description: description
+  tags: ['blog', 'archlinux', 'cli', 'terminal', 'minimalism']
+
+- title: "Minimal"
+  url: http://mnmal.soup.io/
+  description: description
+  tags: ['minimal', 'blog']
+
+- title: "mnmal"
+  url: http://mnmal.org/
+  description: minimal.org
+  tags: ['minimal', 'blog']
+
+- title: "Minimal mac"
+  url: http://minimalmac.com/
+  description: Your Mac simplified
+  tags: ['minimal', 'blog', 'mac']
+
+- title: "blprnt"
+  url: http://blog.blprnt.com/
+  description: Jer Thorp blog
+  tags: ['processing', 'blog', 'java', 'physics']
+
+- title: "Code & Form"
+  url: http://workshop.evolutionzone.com/
+  description: Code and Form is a blog supporting the coding and teaching of Marius Watz
+  tags: ['processing', 'art', 'physics']
+
+- title: "FLONG"
+  url: http://www.flong.com/
+  description: The web site of Golan Levin
+  tags: ['processing', 'blog', 'art']
+
+- title: "SuperCollider"
+  url: http://supercollider.sourceforge.net/
+  description: "SC is an environment programming language for real time audio synthesis and algo comp"
+  tags: ['music', 'language', 'art']
+
+- title: "Chris Jeffs"
+  url: http://chrisjeffs.com/blog/
+  description: "Chris Jeffs blog"
+  tags: ['music', 'supercollider', 'cinder', 'processing', 'art']
+
+- title: "Jacobian"
+  url: http://jacobian.org/
+  description: "Jacon Kaplan-Moss blog"
+  tags: ['python', 'django', 'blog']
+
+- title: "Subtraction"
+  url: http://www.subtraction.com/about/
+  description: "Khoi Vihn web's site"
+  tags: ['design', 'blog']
+
+- title: "Decision et previsions statistiques"
+  url: http://tice.inpl-nancy.fr/modules/unit-stat/
+  description: "Cours de probabilites de l'INPL Nancy"
+  tags: ['probabilites', 'cours', 'improvement', 'math']
+
+- title: "trap(dOOr)"
+  url: http://japh.se/
+  description: The blog of Magnus Woldrich, a perl hacker
+  tags: ['perl', 'blog', 'design', 'geek']
+
+- title: "hgtip"
+  url: http://hgtip.com
+  description: Learn Mercurial one bite-sized tip at a time
+  tags: ['hg', 'reference', 'tips']
+
+- title: "Apple stackexchange"
+  url: http://apple.stackexchange.com/
+  description: "Stackoverflow for Apple"
+  tags: ['apple', 'reference', 'forum']
+
+- title: "Scrapy"
+  url: http://scrapy.org/
+  description: "Screen scraping and Web crawling framework"
+  tags: ['python', 'scraper', 'crawler', 'web', 'framework']
+
+- title: "Vim-ing"
+  url: http://viming.blogspot.com/
+  description: A blog about Vim
+  tags: ['vim', 'blog']
+
+- title: "Physics stackexchange"
+  url: http://physics.stackexchange.com/
+  description: "Stackoverflow for Physics"
+  tags: ['physics', 'reference', 'forum']
+
+- title: "Mathematics stackexchange"
+  url: http://math.stackexchange.com/
+  description: "Stackoverflow for Mathematics"
+  tags: ['math', 'reference', 'forum']
+
+- title: "Vim Help"
+  url: http://vimhelp.appspot.com
+  description: "HTML version of the Vim help pages"
+  tags: ['vim', 'reference']
+
+- title: "vcs-translator"
+  url: http://vcs-translator.ep.io/
+  description: An online version control system translator
+  tags: ['vcs', 'reference']
+
+- title: "Postmodern blog"
+  url: http://postmodern.github.com/
+  description: "postmodern's blog"
+  tags: ['ruby', 'blog']
+
+- title: "Groupe calcul CNRS"
+  url: http://calcul.math.cnrs.fr/spip.php?article164&lang=fr
+  description: "Programme et info pratiques"
+  tags: ['python', 'tuto', 'math', 'physics', 'cnrs', 'job']
+
+- title: "mkkeen"
+  url: http://kmkeen.com/albumbler/
+  description: "keenerd's blog"
+  tags: ['awk', 'bash', 'geek', 'python']
+
+- title: "tartley.com"
+  url: http://tartley.com/
+  description: "A website dedicated to oneself has been described as the greatest act of hubris"
+  tags: ['python', 'test', 'blog']
+
+- title: "Tender Lovemaking"
+  url: http://tenderlovemaking.com/
+  description: "The act of making love, tenderly"
+  tags: ['blog', 'ruby', 'nokogiri']
+
+- title: "processing.unlekker.net"
+  url: http://processing.unlekker.net/index.html
+  description: "Processing sketches"
+  tags: ['processing']
+
+- title: "thechangelog"
+  url: http://thechangelog.com/
+  description: "Open source moves fast. Keep up"
+  tags: ['blog', 'ruby', 'github', 'open_source']
+
+- title: "stylebot"
+  url: http://stylebot.me/
+  description: "Stylebot Social"
+  tags: ['css', 'design']
+
+- title: "Interpolation"
+  url: http://www.math.ucla.edu/~baker/java/hoefer/Lagrange.htm
+  description: "Mathematic lessons and Java applet on the UCLA web page"
+  tags: ['math', 'interpolation', 'spline', 'lagrange', 'bezier']
+
+- title: "ChronoMath"
+  url: http://serge.mehl.free.fr/
+  description: "ChronoMath une chronologie des math"
+  tags: ['math', 'blog']
+
+- title: "spacehack"
+  url: http://spacehack.org/
+  description: "a directory of ways to participate in space exploration"
+  tags: ['data analysis', 'space']
+
+- title: "Gafferongames"
+  url: http://gafferongames.com/
+  description: "Glenn Fiedler's Game Development Articles and Tutorials"
+  tags: ['physics', 'game']
+
+- title: "wblut"
+  url: http://www.wblut.com/
+  description: "Experiments in generative graphics"
+  tags: ['blog', 'processing']
+
+- title: "Paul Bourke"
+  url: http://paulbourke.net/
+  description: "Geometry and math"
+  tags: ['povray', 'geometry', 'math']
+
+- title: "The Nature of code"
+  url: http://www.shiffman.net/teaching/nature/
+  description: "The nature of code"
+  tags: ['processing', 'physics', 'blog', 'learning', 'simulation']
+
+- title: "toxiclibs"
+  url: http://toxiclibs.org/
+  description: "A java library for physics simulation"
+  tags: ['processing', 'physics', 'simulation', 'blog', 'library']
+
+- title: "Scikit-learn"
+  url: http://scikit-learn.sourceforge.net/index.html
+  description: "scikits.learn: machine learning in Python"
+  tags: ['python', 'data_processing', 'science', 'math', 'machine_learning']
+
+- title: "Python scientific lecture notes"
+  url: http://scipy-lectures.github.com/
+  description: "Scientific notes in python"
+  tags: ['python', 'tutorial', 'science']
+
+- title: "plume"
+  url: http://www.plume.info/
+  description: "Reseau de vulgarisation scientifique"
+  tags: ['blog', 'science', 'learning', '@daily']
+
+- title: "thefreesoundproject"
+  url: http://www.freesound.org/
+  description: "Sound database"
+  tags: ['sound', 'art']
+
+- title: "The art of Nathan Selikoff"
+  url: http://nathanselikoff.com/   
+  description: "Math. system, crafted in code, generating complex and lyrical
+  images full of movement and energy"
+  tags: ['blog', 'processing', 'art', 'openFrameworks']
+
+- title: "The hypertextbook"
+  url: http://hypertextbook.com/chaos/
+  description: "Mathematicas in the age of computer"
+  tags: ['chaos', 'math', 'physics']
+
+- title: "BIT-101"
+  url: http://www.bit-101.com/blog/
+  description: "Bill Gates touched my Mac Book Pro"
+  tags: ['java', 'javascript', 'flash', 'processing']
+
+- title: "Morphocode"
+  url: http://morphocode.com/
+  description: "MORPHOCODE is an interdisciplinary architectural playground."
+  tags: ['L-systems', 'cellular_automata', 'processing', 'blog']
+
+- title: "pings from the void"
+  url: http://thequietvoid.com/
+  description: "Matt Ditton's blog"
+  tags: ['blog', 'processing']
+
+- title: "lacosmo"
+  url: http://www.lacosmo.com/nature.html
+  description: "Site de Christian Magnan"
+  tags: ['astro', 'physics', 'learning']
+
+- title: "toxi"
+  url: http://toxi.co.uk/
+  description: "Karsten Schmidt's old site"
+  tags: ['processing', 'blog', 'art', 'physics', 'math']
+
+- title: "http://blog.thejit.org/"
+  url: http://blog.thejit.org/
+  description: "Nicolas Garcia Belmonte"
+  tags: ['javascript', 'InfoVis', 'visualization', 'data']
+
+- title: "Amnon*P5"
+  url: http://amnonp5.wordpress.com/
+  description: "Experiments with Processing"
+  tags: ['blog', 'processing', 'art']
+
+- title: "Hipstersinc"
+  url: http://hipstersinc.com/
+  description: "Hipsters Inc. is largely a domain name registered for hilarity"
+  tags: ['blog', 'processing']
+
+- title: "Sunflow"
+  url: http://sunflow.sourceforge.net/index.php
+  description: 'The open source Render engine'
+  tags: ['java', 'engine', '3D', 'ray_tracer']
+
+- title: "Raphael"
+  url: http://raphaeljs.com/
+  description: "A small Javascript to simplify work with vector graphics"
+  tags: ['javascript', 'library']
+
+- title: "abstractbirds"
+  url: http://www.abstractbirds.com/
+  description: "visual music artists"
+  tags: ['blog', 'music', 'visualization', 'art']
+
+- title: "anthonymattox"
+  url: http://anthonymattox.com/
+  description: "Interactive design  + digital art"
+  tags: ['processing', 'art', 'blog']
+
+- title: "datavisualization"
+  url: http://www.datavisualization.ch/
+  description: "The premier news and knowledge source for data visualization"
+  tags: ['data', 'visualization']
+
+- title: "Marcin Ignac"
+  url: http://marcinignac.com/
+  description: "Marcin Ignac's blog"
+  tags: ['blog', 'data', 'visualization']
+
+- title: "io9"
+  url: http://blog.io9.com/
+  description: "We come from the future"
+  tags: ['science', 'astrophysics']
+
+- title: "FlowingData"
+  url: http://flowingdata.com/
+  description: description
+  tags: ['data', 'visualization', 'science']
+
+- title: "DensityDesign"
+  url: http://www.densitydesign.org/
+  description: "DensityDesign is a research lab in the Design Department (INDACO) of the Politecnico di Milano)"
+  tags: ['data', 'visualization', 'research', 'design']
+
+- title: "Polycode"
+  url: http://polycode.org/
+  description: description
+  tags: ['processing', 'data', 'physics', 'C++', 'creative']
+
+- title: "Doswa"
+  url: http://doswa.com/blog/
+  description: "Programming, electronics, some physics, and some math."
+  tags: ['blog', 'physics']
+
+- title: "visualcomplexity"
+  url: http://www.visualcomplexity.com/vc/
+  description: Visual complexity
+  tags: ['visualization', 'data', 'art', 'design']
+
+- title: "APLpy"
+  url: http://aplpy.github.com/
+  description: "The Astronomical Plotting Library in Python"
+  tags: ['visualization', 'python', 'astro', 'library']
+
+- title: "python4astronimers"
+  url: http://python4astronomers.github.com/index.html
+  description: "Practical Python for Astronomers"
+  tags: ['python', 'astro', 'library']
+
+- title: "{Software} Structures"
+  url: http://artport.whitney.org/commissions/softwarestructures/map.html
+  description: "Defining relationship between elements"
+  tags: ['processing', 'blog', 'visualization']
+
+- title: "joshua davis"
+  url: http://www.joshuadavis.com/
+  description: "Joshua Davis' blog"
+  tags: ['blog', 'art', 'generative']
+
+- title: "graphism"
+  url: http://graphism.fr/
+  description: "Geoffrey Dorne's blog"
+  tags: ['blog', 'design', 'hacking']
+
+- title: "visualizing.org"
+  url: http://www.visualizing.org/
+  description: "Making sense of complex issues through data and design"
+  tags: ['blog', 'design', 'data', 'visualization']
+
+- title: "infosthetics.com"
+  url: http://infosthetics.com/
+  description: "Where form follows data"
+  tags: ['design', 'data', 'visualization']
+
+- title: "Learn Perl in about 2 hours 30 minutes"
+  url: http://qntm.org/files/perl/perl.html
+  description: "A tutorial about Perl"
+  tags: ['perl', 'tutorial']
+
+- title: "DCXN"
+  url: http://blog.dcxn.com/
+  description: "The blog of a real Ruby hacker"
+  tags: ['ruby', 'blog', 'hack']
+
+- title: "Volatile Prototypes"
+  url: http://www.volatileprototypes.com/
+  description: "Processing libraries"
+  tags: ['processing', 'library']
+
+- title: "Chen Alexander's blog"
+  url: http://blog.chenalexander.com/
+  description: "A blog numerical music"
+  tags: ['javascript', 'music']
+
+- title: "Irreal"
+  url: http://irreal.org/blog/
+  description: "A blog about Emacs tips"
+  tags: ['emacs', 'lisp']
+
+
+- title: "Common Lisp tips"
+  url: http://lisptips.com/
+  description: "Common Lisp Tips"
+  tags: ['common lisp', 'tips']
+
+- title: "Send more paramedics"
+  url: http://blog.fogus.me/
+  description: "Fogus' Thoughts On Life, Programming, And Mundania"
+  tags: ['clojure']
+
+- title: "briancarper.net"
+  url: http://briancarper.net/
+  description: "A blog about Vim, Emacs and Clojure"
+  tags: ['vim', 'emacs', 'clojure']
+
+- title: "Supermanoeuvre"
+  url: http://www.supermanoeuvre.com/blog/
+  description: "SUPERMANOEUVRE is an architectural practice..."
+  tags: ['processing', 'tutorials', 'math', 'art']
+
+- title: "flyingpudding"
+  url: http://flyingpudding.com/
+  description: "The blog of a girl having a passion for information visualization"
+  tags: ['processing', 'music', 'visualization', 'art']
+
+
+
